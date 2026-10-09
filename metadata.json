@@ -1,0 +1,6 @@
+{
+  "name": "Atomberg Aura — Intelligent Comfort Control",
+  "description": "An intelligent comfort control system and IoT prototype for BLDC smart fans, optimizing room climate through ambient sensing and explainable automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
